@@ -30,10 +30,8 @@ Sempre tive afinidade com tecnologia e segurança da informação, participando 
 
 ## 📊 Linguagens mais usadas
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabsonlima&layout=compact&langs_count=6&theme=tokyonight&hide=html,css&cache_seconds=1800"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsonlima&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Estatisticas&v=nova_tentativa_1)](https://github.com/gabsonlima)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonlima&layout=compact&theme=tokyonight&hide=html,css,css3,html5&v=nova_tentativa_1)](https://github.com/gabsonlima)
 
 ---
 
