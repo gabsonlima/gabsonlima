@@ -1,6 +1,34 @@
-## Bem-vindo(a) ao perfil do Gabriel 🤩
+# ✨ Gabriel Noronha
 
-Estudante de C&T na UFABC | Assistente de Riscos e Controles na CSN | Focado em Python, Dados e Segurança da Informação.
+Oi! Meu nome é **Gabriel**, tenho 22 anos e sou apaixonado por tecnologia, dados e inovação.  
+Atualmente, estudo **Ciência e Tecnologia** e **Engenharia Eletrônica** na UFABC, e atuo como **Assistente em Riscos e Controles Internos** na CSN.  
+Minha trajetória tem foco na aplicação de modelagem quantitativa, automação de processos e inteligência de dados para resolver problemas complexos de negócios.
+
+Sempre tive afinidade com tecnologia e segurança da informação, participando ativamente do setor de Dados no Green Team Hacker Club. Hoje, busco unir lógica, eficiência e rigor analítico em cada projeto que desenvolvo. 🚀
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:gabislima07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gabrielnoronha1/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gabsonlima/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/gabsonlima)
+
+---
+
+## 💻 Habilidades
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=150458)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+## 📊 Linguagens mais usadas
 
 <div>
   <a href="https://github.com/gabsonlima">
@@ -8,21 +36,16 @@ Estudante de C&T na UFABC | Assistente de Riscos e Controles na CSN | Focado em 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonlima&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</div>
+---
 
-<br>
+## 🚀 Um pouco mais sobre mim
 
-### Para mais informações sobre, acesse minhas redes sociais!
+- 🏋️‍♂️ Presença garantida na academia para treinos de musculação e cardio
+- 🎮 Gamer de PC nas horas vagas (fã de Skyrim, Fable e bons indies)
+- 🛡️ Curioso e sempre estudando: atualmente focado em Cybersecurity e Data Science
+- 🍔 Amante de um bom hambúrguer artesanal, sushi e refeições em família
+- 🐾 Pai de pet orgulhoso!
 
-<div>
-  <a href="https://www.instagram.com/gabsonlima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielnoronha1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
 
-  ![Snake animation](https://github.com/gabsonlima/gabsonlima/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+Obrigado por visitar meu perfil!
