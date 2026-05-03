@@ -28,10 +28,12 @@ Sempre tive afinidade com tecnologia e segurança da informação, participando 
 
 ---
 
-## 📊 Linguagens mais usadas
+## 🎯 Projetos em Destaque
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsonlima&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Estatisticas&v=nova_tentativa_1)](https://github.com/gabsonlima)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonlima&layout=compact&theme=tokyonight&hide=html,css,css3,html5&v=nova_tentativa_1)](https://github.com/gabsonlima)
+💼 **[Automated Market Risk Engine (Middle Office)](https://github.com/gabsonlima/automated-market-risk-engine)**
+> Motor quantitativo construído em **Python** para automatizar o monitoramento diário de risco de mercado de carteiras de Renda Fixa.
+> * **O que faz:** Extrai dados reais da B3 via API (`yfinance`), calcula Volatilidade, **VaR** (Value at Risk) e **Stress Test** com base em limites de política interna.
+> * **Visualização:** Exporta base de dados tratada diretamente para painéis executivos no **Power BI**.
 
 ---
 
