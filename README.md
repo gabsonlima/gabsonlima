@@ -1,7 +1,7 @@
 # ✨ Gabriel Noronha
 
 Oi! Meu nome é **Gabriel**, tenho 22 anos e sou apaixonado por tecnologia, dados e inovação.  
-Atualmente, estudo **Ciência e Tecnologia** e **Engenharia Eletrônica** na UFABC, e atuo como **Assistente em Riscos e Controles Internos** na CSN.  
+Atualmente, estudo **Ciência e Tecnologia** e **Engenharia de Produção** na UFABC, e atuo como **Assistente em Riscos e Controles Internos** na CSN.  
 Minha trajetória tem foco na aplicação de modelagem quantitativa, automação de processos e inteligência de dados para resolver problemas complexos de negócios.
 
 Sempre tive afinidade com tecnologia e segurança da informação, participando ativamente do setor de Dados no Green Team Hacker Club. Hoje, busco unir lógica, eficiência e rigor analítico em cada projeto que desenvolvo. 🚀
